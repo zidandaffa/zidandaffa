@@ -4,6 +4,7 @@ As a recent graduate, I possess a strong enthusiasm and curiosity for continuous
 ## 🌐 Socials:
 Let's connect and build the future together! 🌟
 <br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zidandaffa/)
 
 
